@@ -12,7 +12,9 @@ Simple CSS hover card animation project.
 ## 🎥 Demo Video
 
 
-https://github.com/user-attachments/assets/62ca7ab8-562a-4b4e-b85e-5b3e43170ffd
+
+https://github.com/user-attachments/assets/0ac23dde-ae15-4119-bb3e-d6db4b321cc4
+
 
 
 
