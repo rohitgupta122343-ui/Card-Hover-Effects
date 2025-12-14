@@ -1,0 +1,36 @@
+# Hover Card UI
+
+Simple CSS hover card animation project.
+
+## ✨ Features
+
+* Image card
+* Hover reveal panels (left / right / bottom)
+* Smooth CSS transitions
+* Clean & beginner-friendly code
+
+## 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/62ca7ab8-562a-4b4e-b85e-5b3e43170ffd
+
+
+
+
+## 🛠 Tech Used
+
+* HTML
+* CSS (Flexbox, Transform, Transition)
+
+## ▶️ How to Run
+
+1. Download or clone this repository
+2. Open `index.html` in your browser
+
+## 📸 Preview
+
+(Add screenshot here if needed)
+
+---
+
+Made with ❤️ while learning CSS hover animations.
