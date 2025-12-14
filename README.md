@@ -16,7 +16,6 @@ https://github.com/user-attachments/assets/62ca7ab8-562a-4b4e-b85e-5b3e43170ffd
 
 
 
-
 ## 🛠 Tech Used
 
 * HTML
@@ -29,8 +28,8 @@ https://github.com/user-attachments/assets/62ca7ab8-562a-4b4e-b85e-5b3e43170ffd
 
 ## 📸 Preview
 
-(Add screenshot here if needed)
 
----
+---<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/b47f084d-3573-44ea-b3c5-e5cd869e817a" />
+
 
 Made with ❤️ while learning CSS hover animations.
